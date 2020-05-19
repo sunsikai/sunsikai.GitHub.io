@@ -4,27 +4,26 @@ SEOTitle: 孙思锴的博客 | Kay Blog
 header-img: img/post-bg-coffee.jpeg
 email: sksum@qq.com
 description: "Every failure is leading towards success."
-keyword: "Kay Blog, 孙思锴的博客, sunsikai, 孙思锴, iOS, Apple, iPhone"
+keyword: "Kay Blog, 孙思锴的博客, sunsikai, 孙思锴, Python, RPA"
 url: "http://sunsikai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sunsikai/sunsikai.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "所有命运赠送的礼物,早已在暗中标好了价格!"
-sidebar-avatar: /img/sunsikai.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Theory is one thing, but practice is another!"
+sidebar-avatar: /img/kay-portrait.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
 github_username:    sunsikai
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
-
+# weibo_username:     qiubaiying
+#zhihu_username:     qiubaiying
 
 
 
@@ -97,7 +96,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+friends: [ss
 #     {
 #        title: "WY",
 #         href: "http://zhengwuyang.com"
